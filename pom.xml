@@ -27,7 +27,7 @@
                 </configuration>
             </plugin>
             <plugin>
-                <artifactId>maven-surefire-plugin</artifactId>
+                <artifactId>maven-surefire</artifactId>
                 <version>2.19</version>
                 <dependencies>
                     <dependency>
